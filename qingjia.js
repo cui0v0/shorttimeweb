@@ -19,6 +19,7 @@ if(detail.applyAttach.length>0){
     detail.applyAttach = [];
 }
 detail.leaveName = "病假";
+detail.dormitoryInfo = "北校区-观湖苑5-613-3",
 detail.leaveType = datas.leaveType.name;
 detail.nowTime = "2024-09-30 18:01:03";
 detail.approvers[0].createTime = detail.logInfos[0].createTime;
