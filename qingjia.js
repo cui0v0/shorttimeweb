@@ -5,7 +5,6 @@ datas.recordStatus = "6";
 datas.studentInfo.userName = "李文卓";
 detail.approvers[0].approver.userName = datas.studentInfo.userName;
 detail.approvers[1].approver.userName = "余欢";
-detail.approvers[1].approveNode[0].approvers[0].userName = detail.approvers[1].approver.userName;
 detail.leaveReason = "陪同王博恒去医院看病";
 detail.logInfos[0].createTime = "03-11 12:12";
 detail.logInfos[1].createTime = "03-11 19:13";
