@@ -24,5 +24,5 @@ let obj = JSON.parse($response.body)
 // detail.nowTime = "2025-03-11 18:01:03";
 // detail.approvers[0].createTime = detail.logInfos[0].createTime;
 // detail.approvers[1].createTime = detail.logInfos[1].createTime;
-
+console.log(obj);
 $done({body:JSON.stringify(obj)})
